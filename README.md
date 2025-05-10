@@ -12,7 +12,7 @@
 ### 先试试这个东西怎么写，这是测试
 ### I try it, this is a test.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=20Zpan)](https://github.com/20Zpan)
+[![My Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=20Zpan&langs_count=10)](https://github.com/20Zpan)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=20Zpan&show_icons=true&theme=catppuccin_latte)](https://github.com/20Zpan)
 
