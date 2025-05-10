@@ -12,9 +12,9 @@
 ### 先试试这个东西怎么写，这是测试
 ### I try it, this is a test.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=20Zpan)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=20Zpan)](https://github.com/20Zpan)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=20Zpan&show_icons=true&theme=catppuccin_latte)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=20Zpan&show_icons=true&theme=catppuccin_latte)](https://github.com/20Zpan)
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=20Zpan&repo=ypgf)](https://github.com/anuraghazra/github-readme-stats)
@@ -30,4 +30,4 @@ You can click the Preview link to take a look at your changes.
 测试一下注释，注释是不会显示的
 --->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=20Zpan&rank=AAA,AA,A,B,C,SSS,SS,S,SECRET,UNKNOWN)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=20Zpan&rank=AAA,AA,A,B,C,SSS,SS,S,SECRET,UNKNOWN)](https://github.com/20Zpan)
