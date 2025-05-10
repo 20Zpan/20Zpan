@@ -12,6 +12,14 @@
 ### 先试试这个东西怎么写，这是测试
 ### I try it, this is a test.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=20Zpan)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=20Zpan&show_icons=true&theme=catppuccin_latte)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=20Zpan&ypgf)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=20Zpan&20Zpan)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!---
 20Zpan/20Zpan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
