@@ -16,8 +16,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=20Zpan&show_icons=true&theme=catppuccin_latte)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=20Zpan&ypgf)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=20Zpan&20Zpan)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=20Zpan&repo=ypgf)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=20Zpan&repo=20Zpan)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
